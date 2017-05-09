@@ -13,5 +13,6 @@ pn532 module v3 :https://dangerousthings.com/wp-content/uploads/PN532_Manual_V3-
 and https://www.adafruit.com/product/789
 
 
-
+Programming ESP8266 with FLASH_DOWNLOAD_TOOLS_V3.4.4
+https://espressif.com/en/support/download/other-tools
 
