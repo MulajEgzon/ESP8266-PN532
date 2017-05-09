@@ -1,4 +1,4 @@
-# ESP8266-PN532 (SDK 2.0.0)
+# ESP8266-PN532 I2C communication (SDK 2.0.0)
 
 Reading UID of mifare cards using i2c protocol communication with pn532 modules.
 
